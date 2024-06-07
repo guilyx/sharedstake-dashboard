@@ -1,6 +1,6 @@
 # Dune Query Repo
 
-A template for creating repos to [manage your Dune queries](https://dune.mintlify.app/api-reference/crud/endpoint/create) and any [CSVs as Dune tables](https://dune.mintlify.app/api-reference/upload/endpoint/upload).
+Dashboard: https://dune.com/rangonomics/sharedstake-v2
 
 ### Setup Your Repo
 
